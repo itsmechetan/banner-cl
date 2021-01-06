@@ -1,7 +1,9 @@
 .banner {
   display: none;
+  max-width: 320px;
 }
 
 .banner-show {
   display: block;
+
 }
