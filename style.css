@@ -1,5 +1,8 @@
 .banner {
-  display: none;
+  max-width: 500px;
+}
+
+.banner img{
   max-width: 500px;
 }
 
